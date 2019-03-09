@@ -1,0 +1,23 @@
+{
+  "name": "gitfinaltest",
+  "version": "1.0.0",
+  "description": "Final Exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edelmorataya/gitfinaltest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edelmorataya/gitfinaltest/issues"
+  },
+  "homepage": "https://github.com/edelmorataya/gitfinaltest#readme",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "bootstrap": "^4.3.1"
+  }
+}
